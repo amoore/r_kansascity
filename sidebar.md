@@ -1,12 +1,12 @@
 -
 
-> *Visiting KC?* 
+> *Community Created Guides*
 
->  ~~Check out these useful links:~~
+> [BBQ Guide From Jan 2018](https://www.reddit.com/r/kansascity/comments/7ywlmi/kansas_city_bbq_restaurant_megathread_2018_edition/)
 
-> [BBQ Guide](http://www.reddit.com/r/kansascity/comments/ocncm/kansas_city_bbq_megathread/)
+> [Older BBQ Megathread](https://www.reddit.com/r/kansascity/comments/1oh23d/kansas_city_bbq_megathread_v20/)
 
-> [Kansas City BBQ Megathread v2.0](https://www.reddit.com/r/kansascity/comments/1oh23d/kansas_city_bbq_megathread_v20/)
+> [Worst BBQ](https://www.reddit.com/r/kansascity/comments/7yobx1/whats_the_worst_bbq_place/)
 
 > [Food guide](https://www.reddit.com/r/kansascity/comments/1bqrgu/compiled_what_to_eat_and_where/)
 
@@ -15,10 +15,8 @@
 > [Tour of Kansas City](https://youtu.be/x2ZCddp4blY)
 
 > [The go-to thread for our pets](https://www.reddit.com/r/kansascity/comments/24e9oi/request_for_a_pet_megathread_vet_services/)
- 
-> ~~**Popular "Where do I live" posts:**~~
 
-> * [Spring 2017](https://www.reddit.com/r/kansascity/comments/66m002/ask_kc_the_where_to_live_work_eat_play_etc_thread/)
+> [Where do I live Spring 2017](https://www.reddit.com/r/kansascity/comments/66m002/ask_kc_the_where_to_live_work_eat_play_etc_thread/)
 
 -
 
