@@ -2,7 +2,7 @@
 
 > *Community Created Guides*
 
-> [BBQ Guide From Jan 2018](https://www.reddit.com/r/kansascity/comments/7ywlmi/kansas_city_bbq_restaurant_megathread_2018_edition/)
+> [BBQ Guide From Feb 2018](https://www.reddit.com/r/kansascity/comments/7ywlmi/kansas_city_bbq_restaurant_megathread_2018_edition/)
 
 > [Older BBQ Megathread](https://www.reddit.com/r/kansascity/comments/1oh23d/kansas_city_bbq_megathread_v20/)
 
