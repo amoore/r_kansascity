@@ -45,9 +45,9 @@ some|header
 [r/KCBEER](http://www.reddit.com/r/KansasCityBeer/)|[r/KCEDM](http://www.reddit.com/r/KCEDM)
 [r/KCfitness](http://www.reddit.com/r/kcfitness)|[r/KCrideit](http://www.reddit.com/r/KCrideit)    
 [r/KClist](http://www.reddit.com/r/KClist)|[r/KCTech](http://www.reddit.com/r/KCTech)
-[r/KCGolfers](http://www.reddit.com/r/KCGolfers)|[r/BBQ](http://www.reddit.com/r/BBQ/)  
+[r/GamingKC](http://www.reddit.com/r/GamingKC)|[r/BBQ](http://www.reddit.com/r/BBQ/)
 [r/UMKC](http://www.reddit.com/r/UMKC)|[r/WorldsofFun](http://www.reddit.com/r/worldsoffun)
-[r/GamingKC](http://www.reddit.com/r/GamingKC)|
+
 -
 
 #### Our neighbor reddits:
