@@ -84,8 +84,6 @@ some|header
 
 ###[Kauffman Center for the Performing Arts](http://tickets.kauffmancenter.org/Default.aspx)
 
-###[Jackson County Events](http://www.jacksongov.org/content/3279/3737/default.aspx)
-
 ###[Power & Light Events/Shopping/Restaurants Directory](http://www.powerandlightdistrict.com/)
 
 ###[Plaza Events/Shopping/Restaurants Directory](http://countryclubplaza.com/)
