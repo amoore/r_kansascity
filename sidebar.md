@@ -54,8 +54,7 @@ some|header
 some|header
 :---|:---
 [r/Missouri](http://www.reddit.com/r/missouri)|[r/Kansas](http://www.reddit.com/r/kansas/)
-[Lee's Summit](http://www.reddit.com/r/leesummit)|[Liberty, MO](http://www.reddit.com/r/libertymo)
-[r/NW Missouri](http://www.reddit.com/r/nwmissouri)|[r/StLouis](http://www.reddit.com/r/stlouis)
+[Lee's Summit](http://www.reddit.com/r/leesummit)|[r/StLouis](http://www.reddit.com/r/stlouis
 [r/Topeka](http://www.reddit.com/r/topeka)|[r/Lawrence](http://www.reddit.com/r/Lawrence)  
 
 -
@@ -102,8 +101,5 @@ some|header
 >> Many of us get together for trivia every Tuesday night at [Gambal's](http://www.facebook.com/gambals) in Westport at 8pm.
 
 
-
 >> **[KC Reddit Chat:](http://kcreddit.com/speak/)** Join us in the [KC Reddit Chat](http://kcreddit.com/speak/). Chat with real KC Redditors today. You won't regret it until you do. Join #r/kansascity on freenode.
 
-[](#/RES_SR_Config/NightModeCompatible)
-[](http://goo.gl/TQnRmU)
