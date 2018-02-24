@@ -54,7 +54,7 @@ some|header
 some|header
 :---|:---
 [r/Missouri](http://www.reddit.com/r/missouri)|[r/Kansas](http://www.reddit.com/r/kansas/)
-[Lee's Summit](http://www.reddit.com/r/leesummit)|[r/StLouis](http://www.reddit.com/r/stlouis
+[Lee's Summit](http://www.reddit.com/r/leesummit)|[r/StLouis](http://www.reddit.com/r/stlouis)
 [r/Topeka](http://www.reddit.com/r/topeka)|[r/Lawrence](http://www.reddit.com/r/Lawrence)  
 
 -
