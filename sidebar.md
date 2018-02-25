@@ -94,10 +94,5 @@ some|header
 
 > **Upcoming Events and Meetups**
 
->> Join the [facebook group](http://www.facebook.com/home.php?sk=group_138337269570647) since that is often used to schedule meetups.
-
->> Many of us get together for trivia every Tuesday night at [Gambal's](http://www.facebook.com/gambals) in Westport at 8pm.
-
-
 >> **[KC Reddit Chat:](http://kcreddit.com/speak/)** Join us in the [KC Reddit Chat](http://kcreddit.com/speak/). Chat with real KC Redditors today. You won't regret it until you do. Join #r/kansascity on freenode.
 
