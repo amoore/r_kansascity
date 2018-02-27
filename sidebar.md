@@ -1,6 +1,6 @@
 -
 
-> *Community Created Guides*
+> *Community Guide Posts*
 
 > [BBQ Megathread From Feb 2018](https://www.reddit.com/r/kansascity/comments/7ywlmi/kansas_city_bbq_restaurant_megathread_2018_edition/)
 
@@ -9,6 +9,8 @@
 > [Worst BBQ](https://www.reddit.com/r/kansascity/comments/7yobx1/whats_the_worst_bbq_place/)
 
 > [Food guide](https://www.reddit.com/r/kansascity/comments/1bqrgu/compiled_what_to_eat_and_where/)
+
+> [Local Events March 2018](https://www.reddit.com/r/kansascity/comments/80cpw5/whats_going_on_in_kansas_city_in_march/)
 
 > [Things to do](https://www.reddit.com/r/kansascity/comments/yj5z9/recently_moved_to_kcmo_waldo_area_what_are_some/c5w4zfz)
 
