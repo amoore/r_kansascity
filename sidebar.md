@@ -1,6 +1,6 @@
 -
 
-> *Community Guide Posts*
+> *Community Guides*
 
 > [BBQ Megathread From Feb 2018](https://www.reddit.com/r/kansascity/comments/7ywlmi/kansas_city_bbq_restaurant_megathread_2018_edition/)
 
