@@ -14,7 +14,7 @@
 
 > [Things to do](https://www.reddit.com/r/kansascity/comments/yj5z9/recently_moved_to_kcmo_waldo_area_what_are_some/c5w4zfz)
 
-> [Tour of Kansas City](https://youtu.be/x2ZCddp4blY)
+> [Roadtrip destination Megathread - March 2018](https://www.reddit.com/r/kansascity/comments/822dmx/looking_for_some_place_outside_of_the_box_for_my/)
 
 > [The go-to thread for our pets](https://www.reddit.com/r/kansascity/comments/24e9oi/request_for_a_pet_megathread_vet_services/)
 
