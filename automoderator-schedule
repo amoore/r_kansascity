@@ -1,0 +1,15 @@
+###### If you edit this page, you must [click this link, then click "send"](http://www.reddit.com/message/compose/?to=AutoModerator&subject=kansascity&message=schedule) to have AutoModerator re-load the schedule from here
+---
+    first: "March 8, 2018 9:45 AM -06"
+    repeat: 1 week
+    sticky: true
+    title: "What's happening this weekend in Kansas City? - weekly thread for {{date %B %d, %Y}}"
+    text: |
+        This is a weekly thread of events, activities, and advice for things to do in and around the Kansas City metro area for this weekend and the beginning of next week.
+        
+        Please comment below if you have events to share with folks. Try to include time, location, and price information as well as a link to more information about each event.
+        
+        Are you visiting KC? Feel free to ask about events you've heard of or for restaurant or activity advice.
+        
+        
+---
