@@ -10,8 +10,6 @@
 
 > [Food guide](https://www.reddit.com/r/kansascity/comments/1bqrgu/compiled_what_to_eat_and_where/)
 
-> [Local Events March 2018](https://www.reddit.com/r/kansascity/comments/80cpw5/whats_going_on_in_kansas_city_in_march/)
-
 > [Things to do](https://www.reddit.com/r/kansascity/comments/yj5z9/recently_moved_to_kcmo_waldo_area_what_are_some/c5w4zfz)
 
 > [Roadtrip destination Megathread - March 2018](https://www.reddit.com/r/kansascity/comments/822dmx/looking_for_some_place_outside_of_the_box_for_my/)
