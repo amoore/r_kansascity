@@ -16,6 +16,10 @@
 
 > [Roadtrip destination Megathread - March 2018](https://www.reddit.com/r/kansascity/comments/822dmx/looking_for_some_place_outside_of_the_box_for_my/)
 
+> [Severe Weather Resources](https://www.reddit.com/r/kansascity/comments/85j16r/megathread_monday_severe_weather_resources/)
+
+> [Guide to Rooftop Bars](https://www.reddit.com/r/kansascity/comments/8fbv2w/what_are_some_good_rooftop_bars_aroundin_kansas/)
+
 > [The go-to thread for our pets](https://www.reddit.com/r/kansascity/comments/24e9oi/request_for_a_pet_megathread_vet_services/)
 
 > [Where do I live Spring 2017](https://www.reddit.com/r/kansascity/comments/66m002/ask_kc_the_where_to_live_work_eat_play_etc_thread/)
@@ -97,4 +101,3 @@ some|header
 > **Upcoming Events and Meetups**
 
 >> **[KC Reddit Chat:](http://kcreddit.com/speak/)** Join us in the [KC Reddit Chat](http://kcreddit.com/speak/). Chat with real KC Redditors today. You won't regret it until you do. Join #r/kansascity on freenode.
-
