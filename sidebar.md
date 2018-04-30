@@ -98,4 +98,4 @@ some|header
 
 > **Upcoming Events and Meetups**
 
->> **[KC Reddit Chat:](http://kcreddit.com/speak/)** Join us in the [KC Reddit Chat](http://kcreddit.com/speak/). Chat with real KC Redditors today. You won't regret it until you do. Join #r/kansascity on freenode.
+>> **[KC Reddit Slack Channel:](https://join.slack.com/t/kcreddit/shared_invite/enQtMzU1NDA1OTU5MDU5LThmOTJiYTNiOWRhMDA0NzMwYjFjM2UxMzhjOTM1ODI4MTRmODdmZWFhNzI3YjY4YmFhNGEyZTliMjJjMzhiZTg)** Join us on slack. Chat with real KC Redditors today. You won't regret it until you do.
