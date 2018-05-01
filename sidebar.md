@@ -18,6 +18,8 @@
 
 > [Guide to Rooftop Bars](https://www.reddit.com/r/kansascity/comments/8fbv2w/what_are_some_good_rooftop_bars_aroundin_kansas/)
 
+> [Farmers' Markets](https://www.reddit.com/r/kansascity/comments/8fzjvo/monday_megathread_where_are_the_good_farmers/)
+
 > [The go-to thread for our pets](https://www.reddit.com/r/kansascity/comments/24e9oi/request_for_a_pet_megathread_vet_services/)
 
 > [Where do I live Spring 2017](https://www.reddit.com/r/kansascity/comments/66m002/ask_kc_the_where_to_live_work_eat_play_etc_thread/)
