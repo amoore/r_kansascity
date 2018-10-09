@@ -24,6 +24,8 @@
 
 > [Where do I live Spring 2017](https://www.reddit.com/r/kansascity/comments/66m002/ask_kc_the_where_to_live_work_eat_play_etc_thread/)
 
+> [Weeknight Restaurant Deals](https://www.reddit.com/r/kansascity/comments/9mk94a/looking_for_your_favorite_restaurant_week_night/)
+
 -
 
 #### Filter posts by subject:
