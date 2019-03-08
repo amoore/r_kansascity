@@ -2,6 +2,8 @@
 
 > *Community Guides*
 
+> [Visit KC's 2019 Guide](http://www.nxtbook.com/nxtbooks/madden/kc_ovg19/index.php)
+
 > [BBQ Megathread From Feb 2018](https://www.reddit.com/r/kansascity/comments/7ywlmi/kansas_city_bbq_restaurant_megathread_2018_edition/)
 
 > [BBQ Megathread From Oct 2013](https://www.reddit.com/r/kansascity/comments/1oh23d/kansas_city_bbq_megathread_v20/)
