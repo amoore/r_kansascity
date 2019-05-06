@@ -72,15 +72,17 @@ some|header
 
 ##### (Read them!)
 
-1. Use the search box before you post a question relating to housing, food, local services, etc.
+1. Use the search box before you post a question relating to housing, food, local services, or visiting. There are many helpful links on the sidebar.
 
-2. Posting or seeking any identifying personal information may result in a ban.
+2. No posting or seeking any identifying personal information is allowed. Missing Person posts may be allowed when accompanied by some form of proof, usually a police report
 
 3. Post buying, selling ads to /r/kclist and employment ads to /r/kcjobs.
 
-4. All users are expected to be respectful to other users at all times.
+4. All users are expected to be respectful to other users at all times. Racism or hate speech of any kind will not be tolerated.
 
-5. If you think your post has disappeared, see spam or an inappropriate post, please do not hesitate to [contact the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fkansascity), we're happy to help.
+5. No crowdfunding requests or surveys.
+
+6. If you think your post has disappeared, see spam or an inappropriate post, please do not hesitate to [contact the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fkansascity), we're happy to help.
 
 -
 
