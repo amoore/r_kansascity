@@ -20,7 +20,7 @@
 
 > [Guide to Rooftop Bars](https://www.reddit.com/r/kansascity/comments/8fbv2w/what_are_some_good_rooftop_bars_aroundin_kansas/)
 
-> [Farmers' Markets](https://www.reddit.com/r/kansascity/comments/8fzjvo/monday_megathread_where_are_the_good_farmers/)
+> [Farmers' Markets](https://www.reddit.com/r/kansascity/comments/bo3phg/monday_megathread_farmers_markets_around_kc/)
 
 > [The go-to thread for our pets](https://www.reddit.com/r/kansascity/comments/24e9oi/request_for_a_pet_megathread_vet_services/)
 
