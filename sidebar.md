@@ -106,6 +106,8 @@ some|header
 
 > **Upcoming Events and Meetups**
 
->> **[KC subreddit Discord Chat](https://discord.gg/63nsybe)**
+>> **[New KC subreddit Discord Chat](https://discord.gg/TYdX927)**
+
+>> **[Original KC subreddit Discord Chat](https://discord.gg/63nsybe)**
 
 >> **[KC Reddit Slack Channel:](https://join.slack.com/t/kcreddit/shared_invite/enQtMzU1NDA1OTU5MDU5LThmOTJiYTNiOWRhMDA0NzMwYjFjM2UxMzhjOTM1ODI4MTRmODdmZWFhNzI3YjY4YmFhNGEyZTliMjJjMzhiZTg)** Join us on slack. Chat with real KC Redditors today. You won't regret it until you do.
